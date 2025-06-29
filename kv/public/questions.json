@@ -1,5 +1,136 @@
 {
     "questions": [
+                {
+            "question": "RaM kooli töötajad",
+            "answers": [
+                {
+                    "answer": "Jaak Timpson",
+                    "correct": true,
+                    "comment": "Keka GOAT"
+                },
+                {
+                    "answer": "Anu Bachmann",
+                    "correct": true,
+                    "comment": "2.a klassiõpetaja"
+                },
+                {
+                    "answer": "Carolain Meri-Braunbrück",
+                    "correct": true,
+                    "comment": "kooliõde"
+                },
+                {
+                    "answer": "Enel Meronen",
+                    "correct": true,
+                    "comment": "inglise keele õpetaja"
+                },
+                {
+                    "answer": "Getter Kallas",
+                    "correct": true,
+                    "comment": "koduõppe koordinaator"
+                },
+                {
+                    "answer": "Kadi Asmer",
+                    "correct": true,
+                    "comment": "RoheRaMi ja loodusklassi projektijuht, 3.a abiklassijuhataja"
+                },
+                {
+                    "answer": "Leini Kõrtsini",
+                    "correct": true,
+                    "comment": "raamatukogu juhataja, kodulehe haldur, KiVa tiimi liige, 10.b klassijuhataja"
+                },
+                {
+                    "answer": "Anu Laanet",
+                    "correct": true,
+                    "comment": "info-ja haldussekretär, 8.b klassijuhataja"
+                },
+                {
+                    "answer": "Kady Õi",
+                    "correct": false,
+                    "comment": "Tõmbas uttu mingi laagri kooli lol"
+                },
+                {
+                    "answer": "Andres Paas",
+                    "correct": false,
+                    "comment": "Tõde ja Õigus 1 peategelane"
+                },
+                {
+                    "answer": "Ahti Põder",
+                    "correct": false,
+                    "comment": "UT arvutiteaduse lektor, mitte RaM töötaja"
+                },
+                {
+                    "answer": "Pärtel-Peeter Pere",
+                    "correct": false,
+                    "comment": "Endine abilinnapea, mitte RaM töötaja"
+                }
+
+            ]
+        },
+        {
+            "question": "Tartu Ülikooli bakalaureuseõppe erialad",
+            "answers": [
+                {
+                    "answer": "Matemaatika õpetaja",
+                    "correct": false,
+                    "comment": "Selle nimi on Loodus- ja reaalainete õpetamine põhikoolis"
+                },
+                {
+                    "answer": "Romanistika",
+                    "correct": true,
+                    "comment": "Romanistika õppekava alusel omandad sa ühe läänemaailma suurtest kultuurkeeltest ja kogud selle kultuuriruumi kohta palju huvitavaid teadmisi. Kui lähed vahetussemestriks või -aastaks õppima välismaale, saad ka keelekeskkonna vahetu kogemuse. Alusainetes tekib eripalgeline ülevaade keelest kui süsteemist, suhtlusvahendist ja kultuuri-kirjanduse kandjast ning tänu sellele hinnatakse meie vilistlaste laia silmaringi ja suurepärast suhtlemisoskust."
+                },
+                {
+                    "answer": "Riigiteadused",
+                    "correct": true,
+                    "comment": "Meil saad spetsialiseeruda rahvusvahelistele suhetele või võrdlevale poliitikale ning õpid tundma poliitikateaduslike lähenemiste põhialuseid ja mõistma poliitilisi protsesse. See õppekava on mõeldud sulle, kui oled huvitatud riigi rollist ja toimimisest nii inimese igapäevaelus kui ka riikidevahelistes suhetes. Üliõpilasena tegeled sa sellega, et mõista, mõtestada ja pakkuda praktilisi lahendusi elulistele küsimustele."
+                },
+                {
+                    "answer": "Koolieelse lasteasutuse õpetaja",
+                    "correct": true,
+                    "comment": "Lasteaiaõpetajad ise ütlevad, et neil on maailma kõige toredam ja olulisem amet – meie õppekaval saad selleks mitmekülgse ja põhjaliku ettevalmistuse. Koolieelse lasteasutuse õpetajaks õppida on vahva, sest saad olla loov ja uuenduslik, leida uusi sõpru ja mõttekaaslasi, palju kaasa rääkida ja koostöiselt õppida ning muidugi ka ise palju mängida. Õpetajakutse saad kohe bakalaureuseõpingute lõppedes."
+                },
+                {
+                    "answer": "Kehaline kasvatus ja sport",
+                    "correct": true,
+                    "comment": "Õppekava iseloomustab aktiivne ja praktiline õpe, kus spordialasid õpitakse väikestes rühmades. Oma teadmisi ja oskusi annavad edasi tunnustatud õppejõud, kellest paljud on endised tippsportlased. Bakalaureuseõppes saad hea ettevalmistuse selleks, et asuda tööle (personaal)treeneri või spordipedagoogina."
+                },
+                {
+                    "answer": "Infoühiskond ja sotsiaalne heaolu",
+                    "correct": true,
+                    "comment": "Infoühiskonna ja sotsiaalse heaolu õppekava alusel omandad põhjalikud teoreetilised teadmised ühiskonna toimimisest ning praktilised oskused ühiskonna mõjutamiseks ja heaolu edendamiseks. Sa õpid Eesti oma ala tunnustatuimate asjatundjate käe all. Vilistlasena on sul palju töövõimalusi ning sa saad anda ühiskonda panuse, tegutsedes sotsiaalvaldkonna analüütiku või praktikuna"
+                },
+                {
+                    "answer": "Geoloogia ja keskkonnatehnoloogia",
+                    "correct": true,
+                    "comment": "Geoloogia ja keskkonnatehnoloogia õppekava on üks uuenduslikumaid ja mitmekülgsemaid Tartu Ülikoolis. Sa omandad loodus- ja reaalteaduste laiapõhjalised alusteadmised, mis on ühendatud teadmistega sotsiaalvaldkonnast, õigusruumist ja infotehnoloogiast. Nii saab sinust hinnatud keskkonna- või maapõuespetsialist."
+                },
+                {
+                    "answer": "Füsioteraapia",
+                    "correct": true,
+                    "comment": "Füsioterapeudina kasutad kehalisi harjutusi, asendravi, massaaži ja füüsikalise ravi meetodeid patsientide funktsionaalse võimekuse taastamiseks, parandamiseks või säilitamiseks. Su tööpõld on lai ja mitmekesine - füsioterapeudi amet võimaldab töötada patsientidega alates nende sünnist kuni kõrge eani ning osutada füsioteraapia teenust nii haiglas kui ka erapraksises või hoopis spordimeeskonna juures."
+                },
+                {
+                    "answer": "Disainmõtlemine ja digiturundus",
+                    "correct": true,
+                    "comment": "2022. aastal avatud õppekava on loodud tulevikuoskuseid silmas pidades. Eeskätt pööratakse õppes tähelepanu enesejuhtimis-, suhtlemis-, koostöö- ja digioskustele, probleemide lahendamisele, loovusele, kriitilisele mõtlemisele, ettevõtlikkusele ning kestlikule mõtteviisile. Põimides saadud teadmisi varem omandatuga, on õppijal võimalus suurendada iseenda ja organisatsioonide konkurentsieelist uute mõttemustrite ja lähenemisviiside kaudu."
+                },
+                {
+                    "answer": "Digitaalsed õpimängud",
+                    "correct": false,
+                    "comment": "TLÜ magistriõppekava"
+                },
+                {
+                    "answer": "Võrdlev filosoofia",
+                    "correct": false,
+                    "comment": "TLÜ magistriõppekava"
+                },
+                {
+                    "answer": "Laevamehaanika",
+                    "correct": false,
+                    "comment": "TalTech bakalaureuseõppekava"
+                }
+            ]
+        },
         {
             "question": "Bondi filmide eestikeelsed pealkirjad",
             "answers": [
