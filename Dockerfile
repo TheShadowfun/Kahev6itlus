@@ -1,22 +1,17 @@
 FROM node:16
 
-# Set the working directory
-WORKDIR .
+# Create and set the working directory
+WORKDIR /app
 
-# Copy package.json and package-lock.json
-COPY package*.json ./
+# Clone the repository quietly to avoid Northflank stderr failure
+RUN git clone --quiet https://github.com/TheShadowfun/Kahev6itlus . 
 
 # Install dependencies
 RUN npm install
 
-# Copy the rest of the application files
-COPY . .
-
 # Build the Next.js application
 RUN npm run build
 
-# Expose the port the app runs on
 EXPOSE 3000
 
-# Start the Next.js application
 CMD ["npm", "start"]
